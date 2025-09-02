@@ -1,0 +1,384 @@
+{
+  "finacial_institutions:"[
+    {
+      "name":"First National Bank",
+      "abbr":"FNB",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"local",
+      "type":"bank"
+    },
+    {
+      "name":"Absa Bank Limited",
+      "abbr":"ABSA",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"local",
+      "type":"bank"
+    },
+    {
+      "name":"Standard Bank of South Africa Limited",
+      "abbr":"STD",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"local",
+      "type":"bank"
+    },
+    {
+      "name":"Capitec Bank Limited",
+      "abbr":"CAPITEC",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"local",
+      "type":"bank"
+
+    },
+    {
+      "name":"Investec Bank Limited",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"local",
+      "type":"bank"
+    },
+    {
+      "name":"Bidvest Bank Limited",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"local",
+      "type":"bank"
+    },
+    {
+      "name":"African Bank Limited",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"local",
+      "type":"bank"
+
+    },
+    {
+      "name":"Discovery Bank Limited",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"local",
+      "type":"bank"
+
+    },
+    {
+      "name":"FirstRand Limited",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"local",
+      "type":"bank"
+
+    },
+    {
+      "name":"OM Bank Limited",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"local",
+      "type":"bank"
+
+    },
+    {
+      "name":"Nedbank Limited",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"local",
+      "type":"bank"
+
+    },
+    {
+      "name":"Sasfin Bank Limited",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"local",
+      "type":"bank"
+
+    },
+    {
+      "name":"Tyme Bank Limited",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"local",
+      "type":"bank"
+    },
+    {
+      "name":"Bank Zero Mutual Bank",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"local",
+      "type":"mutual bank"
+
+
+
+    },
+    {
+      "name":"eNL Mutual Bank",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"local",
+      "type":"mutual bank"
+
+    },
+    {
+      "name":"Finbond Mutual Bank",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"local",
+      "type":"mutual bank"
+
+    },
+    {
+      "name":"GBS Mutual Bank",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"local",
+      "type":"mutual bank"
+
+    },
+    {
+      "name":"Access Bank (South Africa) Limited",
+      "abbr":"Access Bank",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"foreign",
+      "type":"foreing bank"
+
+    },
+    {
+      "name":"Albaraka Bank Limited",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"foreign",
+      "type":"foreing bank"
+
+    },
+    {
+      "name":"HBZ Bank Limited",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"foreign",
+      "type":"foreing bank"
+
+    },
+    {
+      "name":"Bank of China Limited Johannesburg Branch",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"foreign",
+      "type":"foreing branch"
+
+    },
+    {
+      "name":"Bank Of Communication Co., Ltd",
+      "abbr":"Bank of Communication",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"foreign",
+      "type":"foreing branch"
+
+    },
+    {
+      "name":"Bank of Taiwan",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"foreign",
+      "type":"foreing branch"
+
+    },
+    {
+      "name":"Citibank",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"foreign",
+      "type":"foreing branch"
+
+    },
+    {
+      "name":"China Construction Bank Corporation",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"foreign",
+      "type":"foreing branch"
+
+    },
+    {
+      "name":"Deutsche Bank",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"foreign",
+      "type":"foreing branch"
+
+    },
+    {
+      "name":"Goldman Sachs International Bank",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"foreign",
+      "type":"foreing branch"
+
+    },
+    {
+      "name":"HSBC Bank Plc",
+      "abbr":"HSBC",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"foreign",
+      "type":"foreing branch"
+
+    },
+    {
+      "name":"JPMorgan Chase Bank",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"foreign",
+      "type":"foreing branch"
+
+    },
+    {
+      "name":"Standard Chartered Bank",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"foreign",
+      "type":"foreing branch"
+
+
+    },
+    {
+      "name":"State Bank of India",
+      "abbr":"",
+      "cipc_num":"",
+      "business_domain":"Banking",
+      "regulator_id":"",
+      "website":"",
+      "services":"",
+      "global_local_controll":"foreign",
+      "type":"foreing branch"
+
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    },
+
+
+  ]
+}
