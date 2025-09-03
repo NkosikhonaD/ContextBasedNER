@@ -1,12 +1,12 @@
 {
-  "finacial_institutions:"[
+  "finacial_institutions":[
     {
       "name":"First National Bank",
       "abbr":"FNB",
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"https://www.fnb.co.za/",
       "services":"",
       "global_local_controll":"local",
       "type":"bank"
@@ -17,7 +17,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"http://www.absa.africa/absaafrica/",
       "services":"",
       "global_local_controll":"local",
       "type":"bank"
@@ -28,7 +28,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"http://www.standardbank.co.za/",
       "services":"",
       "global_local_controll":"local",
       "type":"bank"
@@ -39,7 +39,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"http://www.capitecbank.co.za/",
       "services":"",
       "global_local_controll":"local",
       "type":"bank"
@@ -51,7 +51,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"http://www.investec.com/",
       "services":"",
       "global_local_controll":"local",
       "type":"bank"
@@ -62,7 +62,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"https://www.bidvestbank.co.za/",
       "services":"",
       "global_local_controll":"local",
       "type":"bank"
@@ -73,7 +73,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"http://www.africanbank.co.za/",
       "services":"",
       "global_local_controll":"local",
       "type":"bank"
@@ -85,7 +85,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"http://www.discovery.co.za/bank/bank",
       "services":"",
       "global_local_controll":"local",
       "type":"bank"
@@ -97,7 +97,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"http://www.firstrand.co.za/",
       "services":"",
       "global_local_controll":"local",
       "type":"bank"
@@ -109,7 +109,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"https://www.oldmutual.co.za/bank/",
       "services":"",
       "global_local_controll":"local",
       "type":"bank"
@@ -121,7 +121,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"http://www.nedbank.co.za/",
       "services":"",
       "global_local_controll":"local",
       "type":"bank"
@@ -133,7 +133,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"http://www.sasfin.com/",
       "services":"",
       "global_local_controll":"local",
       "type":"bank"
@@ -145,7 +145,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"http://www.tymebank.co.za/",
       "services":"",
       "global_local_controll":"local",
       "type":"bank"
@@ -156,13 +156,10 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"https://www.bankzero.co.za/",
       "services":"",
       "global_local_controll":"local",
       "type":"mutual bank"
-
-
-
     },
     {
       "name":"eNL Mutual Bank",
@@ -170,7 +167,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"https://www.ownthebank.co.za/",
       "services":"",
       "global_local_controll":"local",
       "type":"mutual bank"
@@ -182,7 +179,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"https://www.finbondmutualbank.co.za/",
       "services":"",
       "global_local_controll":"local",
       "type":"mutual bank"
@@ -194,7 +191,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"https://www.gbsbank.co.za/",
       "services":"",
       "global_local_controll":"local",
       "type":"mutual bank"
@@ -206,7 +203,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"http://www.southafrica.accessbankplc.com/",
       "services":"",
       "global_local_controll":"foreign",
       "type":"foreing bank"
@@ -218,7 +215,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"http://www.albaraka.co.za/",
       "services":"",
       "global_local_controll":"foreign",
       "type":"foreing bank"
@@ -230,7 +227,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"http://www.hbzbank.co.za/",
       "services":"",
       "global_local_controll":"foreign",
       "type":"foreing bank"
@@ -242,7 +239,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"https://www.bankofchina.com/en/index.htm",
       "services":"",
       "global_local_controll":"foreign",
       "type":"foreing branch"
@@ -254,7 +251,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"https://www.bankcomm.com/BankCommSite/shtml/johannesburg/en/2602310/2602323/list.shtml?channelId=2602310",
       "services":"",
       "global_local_controll":"foreign",
       "type":"foreing branch"
@@ -266,7 +263,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"https://www.bot.com/",
       "services":"",
       "global_local_controll":"foreign",
       "type":"foreing branch"
@@ -278,7 +275,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"https://citigroup.com/",
       "services":"",
       "global_local_controll":"foreign",
       "type":"foreing branch"
@@ -290,7 +287,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"http://za.ccb.com/johannesburg/en/index.html",
       "services":"",
       "global_local_controll":"foreign",
       "type":"foreing branch"
@@ -302,7 +299,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"http://www.db.com/southafrica",
       "services":"",
       "global_local_controll":"foreign",
       "type":"foreing branch"
@@ -314,7 +311,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"http://www.gs.com/",
       "services":"",
       "global_local_controll":"foreign",
       "type":"foreing branch"
@@ -326,7 +323,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"http://www.hsbc.co.za/",
       "services":"",
       "global_local_controll":"foreign",
       "type":"foreing branch"
@@ -338,7 +335,7 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"http://www.jpmorgan.com/",
       "services":"",
       "global_local_controll":"foreign",
       "type":"foreing branch"
@@ -350,12 +347,10 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"http://www.standardchartered.co.za/",
       "services":"",
       "global_local_controll":"foreign",
       "type":"foreing branch"
-
-
     },
     {
       "name":"State Bank of India",
@@ -363,22 +358,10 @@
       "cipc_num":"",
       "business_domain":"Banking",
       "regulator_id":"",
-      "website":"",
+      "website":"http://www.statebank.co.za/",
       "services":"",
       "global_local_controll":"foreign",
       "type":"foreing branch"
-
-    },
-    {
-
-    },
-    {
-
-    },
-    {
-
-    },
-
-
+    }
   ]
 }
